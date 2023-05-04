@@ -109,4 +109,4 @@ widgetsnbextension==3.4.2
 win-unicode-console==0.5
 wrapt==1.11.1
 zope.interface==4.6.0
-gcc==12.2
+gcc==10.2.0
